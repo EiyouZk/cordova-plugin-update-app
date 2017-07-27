@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-update-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EiyouZk/cordova-plugin-update-app.git"
+  },
+  "author": "eiyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EiyouZk/cordova-plugin-update-app/issues"
+  },
+  "homepage": "https://github.com/EiyouZk/cordova-plugin-update-app#readme"
+}
